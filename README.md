@@ -1,4 +1,5 @@
 Embrace Galaxy Brained Logging!
+===============================
 
 ![Galaxy Brain](/Expanding-Loggers.jpg?raw=true "Galaxy Brain")
 
